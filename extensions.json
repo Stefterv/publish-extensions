@@ -1213,6 +1213,9 @@
   "pranayagarwal.vscode-hack": {
     "repository": "https://github.com/slackhq/vscode-hack"
   },
+  "processing-foundation.processing-vscode-extension": {
+    "repository": "https://github.com/processing/processing-vscode-extension"
+  },
   "pucelle.vscode-css-navigation": {
     "repository": "https://github.com/pucelle/vscode-css-navigation"
   },
